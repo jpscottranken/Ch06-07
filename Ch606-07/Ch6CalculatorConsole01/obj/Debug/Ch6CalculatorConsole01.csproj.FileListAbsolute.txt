@@ -1,0 +1,8 @@
+C:\Users\jpscott\Desktop\Chapters6-7\Ch606-07\Ch6CalculatorConsole01\bin\Debug\Ch6CalculatorConsole01.exe.config
+C:\Users\jpscott\Desktop\Chapters6-7\Ch606-07\Ch6CalculatorConsole01\bin\Debug\Ch6CalculatorConsole01.exe
+C:\Users\jpscott\Desktop\Chapters6-7\Ch606-07\Ch6CalculatorConsole01\bin\Debug\Ch6CalculatorConsole01.pdb
+C:\Users\jpscott\Desktop\Chapters6-7\Ch606-07\Ch6CalculatorConsole01\obj\Debug\Ch6CalculatorConsole01.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\Chapters6-7\Ch606-07\Ch6CalculatorConsole01\obj\Debug\Ch6CalculatorConsole01.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\Chapters6-7\Ch606-07\Ch6CalculatorConsole01\obj\Debug\Ch6CalculatorConsole01.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\Chapters6-7\Ch606-07\Ch6CalculatorConsole01\obj\Debug\Ch6CalculatorConsole01.exe
+C:\Users\jpscott\Desktop\Chapters6-7\Ch606-07\Ch6CalculatorConsole01\obj\Debug\Ch6CalculatorConsole01.pdb
